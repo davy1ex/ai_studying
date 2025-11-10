@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "4b2a098768104fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b2b498c8edf72c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f37f40581ecc849",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Регрессия.canvas",
+                "viewState": {
+                  "x": 273.70946013260146,
+                  "y": 176.19634040410259,
+                  "zoom": -0.41900789357506135
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Регрессия"
+            }
+          },
+          {
+            "id": "efe3c45404d25c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "виды машинного обучения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "виды машинного обучения"
+            }
+          },
+          {
+            "id": "977573a97b5b66fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "искусственный интеллект.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "искусственный интеллект"
+            }
+          },
+          {
+            "id": "ee0ccc84e3a46c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "как решается задача линейной регрессии?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "как решается задача линейной регрессии?"
+            }
+          },
+          {
+            "id": "d1f44b7581b8f452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/виды машинного обучения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "виды машинного обучения"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbe720bd2aeebd52",
+    "type": "split",
+    "children": [
+      {
+        "id": "6951f27b2e8c7106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f65aac92ae2065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cde7f37f0185bf9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f52f8736a1df772",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b07484977fd8d5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e621237c740cde34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4486beef75074b28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Регрессия.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Регрессия"
+            }
+          },
+          {
+            "id": "ad358098e5d165ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Регрессия.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Регрессия"
+            }
+          },
+          {
+            "id": "fe2d39e27e7100e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db4e950a5c379e27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Регрессия.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Регрессия"
+            }
+          },
+          {
+            "id": "6d72795c71bd7261",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Регрессия.canvas"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "d0f65aac92ae2065",
+  "lastOpenFiles": [
+    "assets/Screenshot 2025-11-07 at 08.13.58.png",
+    "notes",
+    "Регрессия.canvas",
+    "assets",
+    "notes/как решается задача линейной регрессии?.md",
+    "notes/искусственный интеллект.md",
+    "assets/Screenshot 2025-11-07 at 17.50.45.png",
+    "assets/Screenshot 2025-11-07 at 17.58.50.png",
+    "assets/Screenshot 2025-11-07 at 17.58.26.png",
+    "assets/Screenshot 2025-11-07 at 17.57.58.png",
+    "assets/Screenshot 2025-11-07 at 17.57.06.png",
+    "notes/контролируемое обучение.md",
+    "notes/виды машинного обучения.md",
+    "notes/машинное обучение.md",
+    "assets/Screenshot 2025-11-07 at 17.45.14.png",
+    "assets/Screenshot 2025-11-07 at 17.44.37.png",
+    "HOME.md",
+    "assets/Screenshot 2025-11-07 at 17.42.20.png"
+  ]
+}

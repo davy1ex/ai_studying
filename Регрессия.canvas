@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"8f1cc51278611e80","type":"group","x":260,"y":-180,"width":859,"height":463},
+		{"id":"9c90e1a3fad4d9c9","type":"group","x":673,"y":-570,"width":881,"height":144},
+		{"id":"735a316ff76468ab","type":"file","file":"assets/Screenshot 2025-11-07 at 17.58.50.png","x":-120,"y":1040,"width":400,"height":253},
+		{"id":"dcf465e734e69cc9","type":"text","text":"Полином\n","x":-231,"y":1592,"width":250,"height":60},
+		{"id":"3c9ecb7ac52b2c9f","type":"text","text":"обучение модели","x":-566,"y":-665,"width":250,"height":60},
+		{"id":"20c3901617e76117","type":"text","text":"Как это происходит?","x":-76,"y":-751,"width":250,"height":60},
+		{"id":"17829a03810cefb4","type":"text","text":"сформулировать задачу","x":-74,"y":-665,"width":250,"height":60},
+		{"id":"bcbfea4b6204a002","type":"text","text":"поправить датасет","x":-75,"y":-580,"width":250,"height":60},
+		{"id":"ac8f004ab569c79e","type":"text","text":"выбрать как обучать","x":-75,"y":-490,"width":250,"height":60},
+		{"id":"0c3f855e25613c11","type":"text","text":"обучить","x":-76,"y":-374,"width":250,"height":60},
+		{"id":"15154e75acf5e1f2","type":"text","text":"датасет - это набор данных (таблица в excel)","x":280,"y":-580,"width":250,"height":60},
+		{"id":"388021f28339e978","type":"text","text":"виды как обучить","x":693,"y":-550,"width":250,"height":60},
+		{"id":"750b2d6e2984f642","type":"text","text":"с учителем","x":960,"y":-520,"width":250,"height":60},
+		{"id":"84dab551c10e2c0e","type":"text","text":"без учителя","x":1141,"y":-506,"width":250,"height":60},
+		{"id":"95ef574dbc32c113","type":"text","text":"с подкреплением","x":1284,"y":-506,"width":250,"height":60},
+		{"id":"7af4895198052325","type":"text","text":"![[как решается задача линейной регрессии?]]","x":240,"y":-370,"width":360,"height":110},
+		{"id":"1f194d826eb117fe","type":"text","text":"проверить её точность","x":-75,"y":-160,"width":250,"height":60},
+		{"id":"04a11c12ad0dc74d","type":"text","text":"когда мы научили модель - это ещё полбеды, т.к. она просто может \"не работать\" - то есть [[нахождение ошибок | делать ошибки]]","x":280,"y":-160,"width":250,"height":140},
+		{"id":"b57dd17856456118","type":"file","file":"assets/Screenshot 2025-11-07 at 17.50.45.png","x":560,"y":-160,"width":400,"height":152},
+		{"id":"5aac6305d81f1b2a","type":"file","file":"assets/Screenshot 2025-11-07 at 17.58.26.png","x":280,"y":40,"width":400,"height":132},
+		{"id":"1eb35bcb44b0b4ea","type":"file","file":"assets/Screenshot 2025-11-07 at 17.57.06.png","x":700,"y":40,"width":399,"height":223}
+	],
+	"edges":[
+		{"id":"a554e66d74d1d2b1","fromNode":"3c9ecb7ac52b2c9f","fromSide":"right","toNode":"20c3901617e76117","toSide":"left"},
+		{"id":"cfdf9d2150a3ec23","fromNode":"20c3901617e76117","fromSide":"bottom","toNode":"17829a03810cefb4","toSide":"top"},
+		{"id":"dade716245609dd2","fromNode":"17829a03810cefb4","fromSide":"bottom","toNode":"bcbfea4b6204a002","toSide":"top"},
+		{"id":"12015e4f1f4d8c4c","fromNode":"bcbfea4b6204a002","fromSide":"bottom","toNode":"ac8f004ab569c79e","toSide":"top"},
+		{"id":"904b00460329fa30","fromNode":"ac8f004ab569c79e","fromSide":"bottom","toNode":"0c3f855e25613c11","toSide":"top"},
+		{"id":"5ff26e1e189401fa","fromNode":"0c3f855e25613c11","fromSide":"bottom","toNode":"1f194d826eb117fe","toSide":"top"},
+		{"id":"4bd6b307a144702c","fromNode":"1f194d826eb117fe","fromSide":"right","toNode":"04a11c12ad0dc74d","toSide":"left"},
+		{"id":"c5bb95fcc3e39ece","fromNode":"0c3f855e25613c11","fromSide":"right","toNode":"7af4895198052325","toSide":"left"},
+		{"id":"a60b0cfe312a6691","fromNode":"bcbfea4b6204a002","fromSide":"right","toNode":"15154e75acf5e1f2","toSide":"left"},
+		{"id":"02396353ccb7ea13","fromNode":"ac8f004ab569c79e","fromSide":"right","toNode":"388021f28339e978","toSide":"left"}
+	]
+}
