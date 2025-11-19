@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"38584522557e5395","type":"text","text":"классификация ","x":-1000,"y":-520,"width":250,"height":60},
+		{"id":"0132e171d0076fcc","type":"text","text":"![[классификация#Что делает?]]","x":-614,"y":-524,"width":254,"height":164},
+		{"id":"f14b74317b1a92bd","x":-623,"y":-287,"width":303,"height":247,"type":"text","text":"![[классификация#как она это делает?]]"},
+		{"id":"36d26a81c9e5d6a9","x":-744,"y":2,"width":250,"height":60,"type":"text","text":"модель персептрона"},
+		{"id":"35e032694c971d8c","x":-744,"y":62,"width":250,"height":60,"type":"text","text":"алгоритм персептрона"},
+		{"id":"c74bb3d621082ba6","x":-427,"y":1,"width":250,"height":60,"type":"text","text":"сложить веса слов и получить итог "},
+		{"id":"3f39f7354b201314","x":-397,"y":86,"width":250,"height":60,"type":"text","text":"назначить словам веса"}
+	],
+	"edges":[
+		{"id":"9ec41583614f2caf","fromNode":"38584522557e5395","fromSide":"right","toNode":"0132e171d0076fcc","toSide":"left"},
+		{"id":"b6e6c1fffa6c8795","fromNode":"38584522557e5395","fromSide":"right","toNode":"f14b74317b1a92bd","toSide":"left"},
+		{"id":"bf7ab03d3409dfca","fromNode":"36d26a81c9e5d6a9","fromSide":"right","toNode":"c74bb3d621082ba6","toSide":"left"},
+		{"id":"59bb847c255c3bad","fromNode":"35e032694c971d8c","fromSide":"right","toNode":"3f39f7354b201314","toSide":"left"}
+	]
+}
