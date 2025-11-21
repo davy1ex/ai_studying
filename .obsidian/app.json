@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true
 }
